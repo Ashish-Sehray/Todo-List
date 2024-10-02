@@ -1,0 +1,10 @@
+.itemContainer {
+  text-align: left;
+  margin: 14px;
+}
+.deleteBtn {
+  text-align: center;
+}
+.Btn {
+  min-width: 80px;
+}
